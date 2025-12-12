@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "shpell",
+      "name": "shpellm",
       "source": "./",
       "description": "Spell check files by calling /shpell",
       "version": "1.0.0",
