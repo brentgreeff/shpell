@@ -1,0 +1,10 @@
+{
+  "name": "shpell",
+  "description": "Spell check files before pushing using typos-cli",
+  "version": "1.0.0",
+  "author": {
+    "name": "brent",
+    "email": "brent@example.com"
+  },
+  "mcpServers": {}
+}

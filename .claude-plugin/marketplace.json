@@ -1,0 +1,21 @@
+{
+  "name": "shpell",
+  "owner": {
+    "name": "brent",
+    "email": "brent@example.com",
+    "url": "https://github.com/brentgreeff"
+  },
+  "metadata": {
+    "description": "Spell check command for Claude Code using typos-cli",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "shpell",
+      "source": "./",
+      "description": "Spell check files by calling /shpell",
+      "version": "1.0.0",
+      "keywords": ["spell", "typos", "lint", "writing"]
+    }
+  ]
+}
