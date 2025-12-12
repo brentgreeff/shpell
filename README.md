@@ -42,3 +42,7 @@ Examples:
 - Identifies likely false positives (code terms, proper nouns)
 - Offers to auto-fix real typos
 - Suggests adding persistent ignores to `.typos.toml`
+
+## License
+
+MIT - see [LICENSE](./LICENSE)
