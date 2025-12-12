@@ -17,6 +17,22 @@ Or in Claude Code:
 
 Then restart Claude Code for the command to be available.
 
+## Update
+
+```bash
+claude plugin marketplace update shpell
+claude plugin update shpell@shpell
+```
+
+Then restart Claude Code.
+
+## Uninstall
+
+```bash
+claude plugin uninstall shpell@shpell
+claude plugin marketplace remove shpell
+```
+
 ## Prerequisites
 
 Install typos-cli:

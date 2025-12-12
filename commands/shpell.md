@@ -1,6 +1,6 @@
 ---
 argument-hint: [path]
-description: Spell check files using typos-cli with false positive filtering. When Claude needs to check spelling, find typos, or verify prose quality in markdown, code, or documentation.
+description: Spell check files using typos-cli with false positive filtering.
 license: MIT. LICENSE has complete terms
 ---
 
